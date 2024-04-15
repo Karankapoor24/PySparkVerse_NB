@@ -12,8 +12,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 7](#day-7)t -->
 
 ## Day 1
-[Redirect to Day 1 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%201%20(PySpark).ipynb){:target="_blank" rel="noopener"}
-<a href="http://google.com/" target="_blank">Hello, google!</a>
+[Redirect to Day 1 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%201%20(PySpark).ipynb)
+
 - Get count in DataFrame
 - Select columns in DataFrame
 - Filter Rows in DataFrame
