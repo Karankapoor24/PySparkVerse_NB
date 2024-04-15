@@ -2,15 +2,15 @@
 
 Welcome to the PySparkVerse repository! This repository contains a collection of PySpark code snippets and examples categorized by day for easy reference and learning. Whether you're new to PySpark or looking to deepen your understanding, you'll find a variety of topics covered here.
 
-<!-- ## Table of Contents
+ ## Table of Contents
 - [Day 1](#day-1)
-- [Day 2](#day-2)
+<!--- [Day 2](#day-2)
 - [Day 3](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
 - [Day 6](#day-6)
 - [Day 7](#day-7)t -->
-<!--
+
 ## Day 1
 - Get count in DataFrame
 - Select columns in DataFrame
@@ -36,7 +36,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Lit in DataFrame
 - Concat column in DataFrame
 - String concatenation in DataFrame
-
+<!--
 ## Day 2
 - Average over partition in DataFrame
 - Sum over partition in DataFrame
