@@ -10,7 +10,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 5](#day-5)
 - [Day 6](#day-6)
 - [Day 7](#day-7)t -->
-
+<!--
 ## Day 1
 - Get count in DataFrame
 - Select columns in DataFrame
@@ -137,7 +137,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Optimize the table: Optimize a Delta table for better performance.
 - Optimize / Zorder: Z-order DataFrame for better query performance.
 - Vacuum: Vacuum a Delta table to reclaim space by removing old versions of files.
-- Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column.
+- Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. -->
 
 
 
