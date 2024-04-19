@@ -34,6 +34,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Between in DataFrame
 - Like in DataFrame
 - Case in DataFrame
+- Cast data type
 - CountDistinct in DataFrame
 - Substring in DataFrame
 - Lit in DataFrame
