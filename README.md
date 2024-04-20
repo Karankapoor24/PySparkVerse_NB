@@ -5,8 +5,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
  ## Table of Contents
  ## 01_PySpark_Baisc
 - [Day 1](#day-1)
-<!--- [Day 2](#day-2)
-- [Day 3](#day-3)
+- [Day 2](#day-2)
+<!--- [Day 3](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
 - [Day 6](#day-6)
@@ -40,8 +40,9 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Lit in DataFrame
 - Concat column in DataFrame
 - String concatenation in DataFrame
-<!--
+
 ## Day 2
+[Redirect to Day 2 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%202%20(PySpark).ipynb)
 - Average over partition in DataFrame
 - Sum over partition in DataFrame
 - Lead function with default value in DataFrame
@@ -49,7 +50,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Drop column in DataFrame
 - Rename column in DataFrame
 - Change column datatype in DataFrame
-
+<!--
 ## Day 3
 - Creating table from DataFrame: Learn how to create a table from a DataFrame in PySpark.
 - Insert data in DataFrame: Understand how to insert data into a DataFrame.
