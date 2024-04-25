@@ -7,8 +7,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
-<!--- [Day 4](#day-4)
-- [Day 5](#day-5)
+- [Day 4](#day-4)
+<!--- [Day 5](#day-5)
 - [Day 6](#day-6)
 - [Day 7](#day-7)t -->
 
@@ -62,8 +62,9 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Group by having count greater than in DataFrame: Group by clauses with conditions in PySpark DataFrames.
 - Alias for table join (default is inner) in DataFrame: Specify aliases for table joins in PySpark DataFrames.
 - Select from multiple tables in DataFrame: Select data from multiple tables using PySpark DataFrames.
-<!--
+
 ## Day 4
+[Redirect to Day 4 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%204%20(PySpark).ipynb)
 - Extract date part in DataFrame: Extract specific parts of a date from a DataFrame in PySpark.
 - Inequality filtering in DataFrame: Filter DataFrame based on inequality conditions.
 - In list in DataFrame: Filter DataFrame where a column value is in a list of values.
@@ -80,7 +81,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Coalesce in DataFrame: Select the first non-null value from a list of columns in PySpark DataFrames.
 - Date diff in DataFrame: Calculate the difference between two dates in PySpark DataFrames.
 - Add months to date in DataFrame: Add a specified number of months to a date in PySpark DataFrames.
-
+<!--
 ## Day 5
 - First value in group in DataFrame: Get the first value in each group of a DataFrame.
 - Last value in group in DataFrame: Get the last value in each group of a DataFrame.
