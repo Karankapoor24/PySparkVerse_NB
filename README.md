@@ -13,7 +13,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 7](#day-7)
   
 ## [02_Pyspark_daily_challenge](#02_Pyspark_daily_challenge)
-- [Day_1](#day_1)
+- [Day_1](#Day-1)
 - [Day_2](#day_2)
 - [Day_3](#day_3)
 - [Day_4](#day_4)
@@ -164,7 +164,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 
 ## 02_Pyspark_daily_challenge (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
 
-# Day_1 (6 questions)
+# Day 1 (6 questions)
   * Revising the Select Query I Hacker Rank
   * Revising the Select Query II Hacker Rank
   * Select All Hacker Rank
