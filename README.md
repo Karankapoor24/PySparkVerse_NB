@@ -3,7 +3,7 @@
 Welcome to the PySparkVerse repository! This repository contains a collection of PySpark code snippets and examples categorized by day for easy reference and learning. Whether you're new to PySpark or looking to deepen your understanding, you'll find a variety of topics covered here.
 
  ## Table of Contents
- ## 01_PySpark_Baisc
+ ## 01_PySpark_Basic
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
@@ -11,7 +11,19 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 5](#day-5)
 <!--- [Day 6](#day-6)
 - [Day 7](#day-7)t -->
+## 02_Pyspark_daily_challenge
+<!--- [Day_1](#day-1)
+- [Day_2](#day-2)
+- [Day_3](#day-3)
+- [Day_4](#day-4)
+- [Day_5](#day-5)
+- [Day_6](#day-6)
+- [Day_7](#day-7)
+- [Day_8](#day-8)
+- [Day_9](#day-9)
+- [Day_10](#day-10)-->
 
+## 01_PySpark_Basic (In this lesson, we will learn how to perform transformations in PySpark.)
 ## Day 1
 [Redirect to Day 1 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%201%20(PySpark).ipynb)
 
@@ -145,8 +157,75 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Optimize the table: Optimize a Delta table for better performance.
 - Optimize / Zorder: Z-order DataFrame for better query performance.
 - Vacuum: Vacuum a Delta table to reclaim space by removing old versions of files.
-- Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. -->
+- Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. 
+-->
 
+## 02_Pyspark_daily_challenge (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
+
+# Day_1 (6 questions)
+  * Revising the Select Query I Hacker Rank
+  * Revising the Select Query II Hacker Rank
+  * Select All Hacker Rank
+  * Select By ID Hacker Rank
+  * Japanese Cities' Attributes Hacker Rank
+  * Japanese Cities' Names Hacker Rank
+
+# Day_2 (9 questions)
+  * Weather Observation Station 1 Hacker Rank
+  * Weather Observation Station 3 Hacker Rank
+  * Weather Observation Station 4 Hacker Rank
+  * Weather Observation Station 6 & 7 Hacker Rank
+  * Weather Observation Station 8 Hacker Rank
+  * Weather Observation Station 9 Hacker Rank
+  * Weather Observation Station 10 Hacker Rank
+  * Weather Observation Station 11 Hacker Rank
+  * Weather Observation Station 12 Hacker Rank
+
+# Day_3 (4 questions)
+  * Higher Than 75 Marks Hacker Rank
+  * Employee Names Hacker Rank
+  * Employee Salaries Hacker Rank
+  * Type of Triangle Hacker Rank
+
+# Day_4 (1 question)
+  * The PADS Hacker Rank ( Q1 & Q2 )
+
+# Day_5 (8 questions)
+  * Revising Aggregations - The Count Function Hacker Rank
+  * Revising Aggregations - The Sum Function Hacker Rank
+  * Revising Aggregations - Averages Hacker Rank
+  * Average Population Hacker Rank
+  * Japan Population Hacker Rank
+  * Population Density Difference Hacker Rank
+  * The Blunder Hacker Rank
+  * Top Earners Hacker Rank
+
+# Day_6 (8 questions)
+ * Weather Observation Station 2 Hacker Rank
+ * Weather Observation Station 13 Hacker Rank
+ * Weather Observation Station 14 Hacker Rank
+ * Weather Observation Station 15 Hacker Rank
+ * Weather Observation Station 16 Hacker Rank
+ * Weather Observation Station 17 Hacker Rank
+ * Weather Observation Station 18 Hacker Rank
+ * Weather Observation Station 19 Hacker Rank
+
+# Day_7 (3 questions)
+ * Population Census Hacker Rank
+ * African Cities Hacker Rank
+ * Average Population of Each Continent
+
+# Day_8 (2 questions)
+ * Binary Tree Nodes Hacker Rank
+ * New Companies Hacker Rank
+
+# Day_9 (2 questions)
+ * The Report Hacker Rank
+ * Top Competitors Hacker Rank
+
+# Day_10 (2 questions)
+ * Ollivander's Inventory Hacker Rank
+ * Placements Hacker Rank
 
 
 ## Usage
