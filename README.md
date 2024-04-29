@@ -3,7 +3,7 @@
 Welcome to the PySparkVerse repository! This repository contains a collection of PySpark code snippets and examples categorized by day for easy reference and learning. Whether you're new to PySpark or looking to deepen your understanding, you'll find a variety of topics covered here.
 
  ## Table of Contents
- ## 01_PySpark_Basic
+ ## [01_PySpark_Basic](#01_PySpark_Basic)
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
@@ -24,6 +24,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day_10](#day-10)-->
 
 ## 01_PySpark_Basic (In this lesson, we will learn how to perform transformations in PySpark.)
+
 ## Day 1
 [Redirect to Day 1 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%201%20(PySpark).ipynb)
 
