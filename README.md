@@ -162,7 +162,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. 
 -->
 
-## 02_Pyspark_Easy_To_Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
+## 02 Pyspark Easy To Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
 
 ## Day_1 (6 questions)
   * Revising the Select Query I Hacker Rank
