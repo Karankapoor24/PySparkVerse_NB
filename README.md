@@ -8,8 +8,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 2](#day-2)
 - [Day 3](#day-3)
 - [Day 4](#day-4)
-<!--- [Day 5](#day-5)
-- [Day 6](#day-6)
+- [Day 5](#day-5)
+<!--- [Day 6](#day-6)
 - [Day 7](#day-7)t -->
 
 ## Day 1
@@ -81,8 +81,9 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Coalesce in DataFrame: Select the first non-null value from a list of columns in PySpark DataFrames.
 - Date diff in DataFrame: Calculate the difference between two dates in PySpark DataFrames.
 - Add months to date in DataFrame: Add a specified number of months to a date in PySpark DataFrames.
-<!--
+
 ## Day 5
+[Redirect to Day 5 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%205%20(PySpark).ipynb)
 - First value in group in DataFrame: Get the first value in each group of a DataFrame.
 - Last value in group in DataFrame: Get the last value in each group of a DataFrame.
 - Row number over partition in DataFrame: Assign a unique row number to each row within a partition of a DataFrame.
@@ -92,7 +93,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Min value in table in DataFrame: Find the minimum value in a DataFrame column.
 - Max value in group in DataFrame: Find the maximum value in each group of a DataFrame.
 - Max value in table in DataFrame: Find the maximum value in a DataFrame column.
-
+<!--
 ## Day 6
 - Left join in DataFrame: Perform a left join between two DataFrames in PySpark.
 - Right join in DataFrame: Perform a right join between two DataFrames in PySpark.
