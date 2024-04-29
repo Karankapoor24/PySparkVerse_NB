@@ -9,19 +9,20 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 3](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
-<!--- [Day 6](#day-6)
-- [Day 7](#day-7)t -->
-## 02_Pyspark_daily_challenge
-<!--- [Day_1](#day-1)
-- [Day_2](#day-2)
-- [Day_3](#day-3)
-- [Day_4](#day-4)
-- [Day_5](#day-5)
-- [Day_6](#day-6)
-- [Day_7](#day-7)
-- [Day_8](#day-8)
-- [Day_9](#day-9)
-- [Day_10](#day-10)-->
+- [Day 6](#day-6)
+- [Day 7](#day-7)
+  
+## [02_Pyspark_daily_challenge](#02_Pyspark_daily_challenge)
+- [Day_1](#day_1)
+- [Day_2](#day_2)
+- [Day_3](#day_3)
+- [Day_4](#day_4)
+- [Day_5](#day_5)
+- [Day_6](#day_6)
+- [Day_7](#day_7)
+- [Day_8](#day_8)
+- [Day_9](#day_9)
+- [Day_10](#day_10)
 
 ## 01_PySpark_Basic (In this lesson, we will learn how to perform transformations in PySpark.)
 
