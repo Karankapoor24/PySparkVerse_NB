@@ -3,7 +3,7 @@
 Welcome to the PySparkVerse repository! This repository contains a collection of PySpark code snippets and examples categorized by day for easy reference and learning. Whether you're new to PySpark or looking to deepen your understanding, you'll find a variety of topics covered here.
 
  ## Table of Contents
- ## [01_PySpark_Basic](#01_PySpark_Basic)
+ ## [01_PySpark_Basic](#01-PySpark-Basic)
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
@@ -12,7 +12,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 6](#day-6)
 - [Day 7](#day-7)
   
-## [02_Pyspark_daily_challenge](#02_Pyspark_daily_challenge)
+## [02_Pyspark_Easy_To_Medium](#02-Pyspark-Easy-To-Medium)
 - [Day_1](#Day_1)
 - [Day_2](#Day_2)
 - [Day_3](#Day_3)
@@ -162,7 +162,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. 
 -->
 
-## 02_Pyspark_daily_challenge (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
+## 02_Pyspark_Easy_To_Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
 
 ## Day_1 (6 questions)
   * Revising the Select Query I Hacker Rank
