@@ -164,7 +164,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 
 ## 02_Pyspark_daily_challenge (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
 
-# Day_1 (6 questions)
+## Day_1 (6 questions)
   * Revising the Select Query I Hacker Rank
   * Revising the Select Query II Hacker Rank
   * Select All Hacker Rank
@@ -172,7 +172,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
   * Japanese Cities' Attributes Hacker Rank
   * Japanese Cities' Names Hacker Rank
 
-# Day_2 (9 questions)
+## Day_2 (9 questions)
   * Weather Observation Station 1 Hacker Rank
   * Weather Observation Station 3 Hacker Rank
   * Weather Observation Station 4 Hacker Rank
@@ -183,16 +183,16 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
   * Weather Observation Station 11 Hacker Rank
   * Weather Observation Station 12 Hacker Rank
 
-# Day_3 (4 questions)
+## Day_3 (4 questions)
   * Higher Than 75 Marks Hacker Rank
   * Employee Names Hacker Rank
   * Employee Salaries Hacker Rank
   * Type of Triangle Hacker Rank
 
-# Day_4 (1 question)
+## Day_4 (1 question)
   * The PADS Hacker Rank ( Q1 & Q2 )
 
-# Day_5 (8 questions)
+## Day_5 (8 questions)
   * Revising Aggregations - The Count Function Hacker Rank
   * Revising Aggregations - The Sum Function Hacker Rank
   * Revising Aggregations - Averages Hacker Rank
@@ -202,7 +202,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
   * The Blunder Hacker Rank
   * Top Earners Hacker Rank
 
-# Day_6 (8 questions)
+## Day_6 (8 questions)
  * Weather Observation Station 2 Hacker Rank
  * Weather Observation Station 13 Hacker Rank
  * Weather Observation Station 14 Hacker Rank
@@ -212,20 +212,20 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
  * Weather Observation Station 18 Hacker Rank
  * Weather Observation Station 19 Hacker Rank
 
-# Day_7 (3 questions)
+## Day_7 (3 questions)
  * Population Census Hacker Rank
  * African Cities Hacker Rank
  * Average Population of Each Continent
 
-# Day_8 (2 questions)
+## Day_8 (2 questions)
  * Binary Tree Nodes Hacker Rank
  * New Companies Hacker Rank
 
-# Day_9 (2 questions)
+## Day_9 (2 questions)
  * The Report Hacker Rank
  * Top Competitors Hacker Rank
 
-# Day_10 (2 questions)
+## Day_10 (2 questions)
  * Ollivander's Inventory Hacker Rank
  * Placements Hacker Rank
 
