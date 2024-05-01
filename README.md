@@ -11,6 +11,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 5](#day-5)
 - [Day 6](#day-6)
 - [Day 7](#day-7)
+- [Day_1](#Ayush-1)
   
 ## [02_Pyspark_Easy_To_Medium](#02_Pyspark_Easy_To_Medium)
 - [Day_1](#Ayush-1)
