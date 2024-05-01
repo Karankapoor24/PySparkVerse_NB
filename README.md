@@ -83,7 +83,6 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 
 [🔼 Back to top](#01_pyspark_basic)
 
-
 ## Day 4
 [Redirect to Day 4 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%204%20(PySpark).ipynb)
 - Extract date part in DataFrame: Extract specific parts of a date from a DataFrame in PySpark.
@@ -105,7 +104,6 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 
 [🔼 Back to top](#01_pyspark_basic)
 
-
 ## Day 5
 [Redirect to Day 5 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%205%20(PySpark).ipynb)
 - First value in group in DataFrame: Get the first value in each group of a DataFrame.
@@ -120,8 +118,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 
 [🔼 Back to top](#01_pyspark_basic)
 
-
 ## Day 6
+[Redirect to Day 6 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%206%20(PySpark).ipynb)
 - Left join in DataFrame: Perform a left join between two DataFrames in PySpark.
 - Right join in DataFrame: Perform a right join between two DataFrames in PySpark.
 - Outer join in DataFrame: Perform an outer join between two DataFrames in PySpark.
@@ -136,9 +134,9 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Sorting in DataFrame: Sort DataFrame by one or more columns in ascending or descending order.
 
 [🔼 Back to top](#01_pyspark_basic)
-
   
 ## Day 7
+[Redirect to Day 6 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%207%20(PySpark).ipynb)
 - dbutils.help(): Learn how to use dbutils.help() to get help on available functions in Databricks.
 - dbutils.fs.help(): Explore dbutils.fs.help() to get help on file system operations in Databricks.
 - Read files from folder: Read files from a folder into a DataFrame in PySpark.
@@ -178,7 +176,6 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. 
 
 [🔼 Back to top](#01_pyspark_basic)
-
 
 ## 02_Pyspark_Easy_To_Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank)
 
