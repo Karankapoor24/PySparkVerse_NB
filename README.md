@@ -55,7 +55,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Concat column in DataFrame
 - String concatenation in DataFrame
 
-[🔼 Back to top](#day-1)
+[🔼 Back to top](#01_pyspark_basic)
 
 ## Day 2
 [Redirect to Day 2 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%202%20(PySpark).ipynb)
