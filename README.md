@@ -24,7 +24,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day_9](#Day_9)
 - [Day_10](#Day_10)-->
 
-## 01_PySpark_Basic (In this lesson, we will learn how to perform transformations in PySpark.)
+## 01_PySpark_Basic (In this lesson, we will learn how to perform transformations in PySpark)
 
 ## Day 1
 [Redirect to Day 1 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%201%20(PySpark).ipynb)
@@ -162,7 +162,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. 
 -->
 
-## 02_Pyspark_Easy_To_Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
+## 02_Pyspark_Easy_To_Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank)
 
 ## Day_1 (6 questions)
   * Revising the Select Query I Hacker Rank
