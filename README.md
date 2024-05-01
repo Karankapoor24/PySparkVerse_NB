@@ -9,12 +9,12 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 3](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
-<!--- [Day 6](#day-6)
+- [Day 6](#day-6)
 - [Day 7](#day-7)
   
 ## [02_Pyspark_Easy_To_Medium](#02_Pyspark_Easy_To_Medium)
 - [Day_1](#Day_1)
-- [Day_2](#Day_2)
+<!--- [Day_2](#Day_2)
 - [Day_3](#Day_3)
 - [Day_4](#Day_4)
 - [Day_5](#Day_5)
@@ -171,7 +171,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
   * Select By ID Hacker Rank
   * Japanese Cities' Attributes Hacker Rank
   * Japanese Cities' Names Hacker Rank
-<--
+<!--
 ## Day_2 (9 questions)
   * Weather Observation Station 1 Hacker Rank
   * Weather Observation Station 3 Hacker Rank
