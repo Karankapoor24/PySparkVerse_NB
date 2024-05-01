@@ -9,7 +9,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 3](#day-3)
 - [Day 4](#day-4)
 - [Day 5](#day-5)
-<!--- [Day 6](#day-6)
+- [Day 6](#day-6)
 - [Day 7](#day-7)
   
 ## [02_Pyspark_Easy_To_Medium](#02_pyspark_easy_to_medium-in-this-lesson-we-will-solve-questions-ranging-from-easy-to-medium-difficulty-level-we-have-taken-references-from-hackerrank)
@@ -22,7 +22,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day_7](#Day_7)
 - [Day_8](#Day_8)
 - [Day_9](#Day_9)
-- [Day_10](#Day_10)-->
+- [Day_10](#Day_10)
 
 ## 01_PySpark_Basic (In this lesson, we will learn how to perform transformations in PySpark)
 
@@ -107,7 +107,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Min value in table in DataFrame: Find the minimum value in a DataFrame column.
 - Max value in group in DataFrame: Find the maximum value in each group of a DataFrame.
 - Max value in table in DataFrame: Find the maximum value in a DataFrame column.
-<!--
+
 ## Day 6
 - Left join in DataFrame: Perform a left join between two DataFrames in PySpark.
 - Right join in DataFrame: Perform a right join between two DataFrames in PySpark.
@@ -229,7 +229,6 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Ollivander's Inventory Hacker Rank
 - Placements Hacker Rank
 
--->
 
 ## Usage
 Each day's section contains a list of tasks along with the corresponding code snippets. You can simply navigate to the desired day to find the code examples you're interested in.
