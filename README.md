@@ -67,6 +67,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Rename column in DataFrame
 - Change column datatype in DataFrame
 
+[🔼 Back to top](#01_pyspark_basic)
+
 ## Day 3
 [Redirect to Day 3 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%203%20(PySpark).ipynb)
 - Creating table from DataFrame: Learn how to create a table from a DataFrame in PySpark.
@@ -78,6 +80,9 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Group by having count greater than in DataFrame: Group by clauses with conditions in PySpark DataFrames.
 - Alias for table join (default is inner) in DataFrame: Specify aliases for table joins in PySpark DataFrames.
 - Select from multiple tables in DataFrame: Select data from multiple tables using PySpark DataFrames.
+
+[🔼 Back to top](#01_pyspark_basic)
+
 
 ## Day 4
 [Redirect to Day 4 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%204%20(PySpark).ipynb)
@@ -98,6 +103,9 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Date diff in DataFrame: Calculate the difference between two dates in PySpark DataFrames.
 - Add months to date in DataFrame: Add a specified number of months to a date in PySpark DataFrames.
 
+[🔼 Back to top](#01_pyspark_basic)
+
+
 ## Day 5
 [Redirect to Day 5 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%205%20(PySpark).ipynb)
 - First value in group in DataFrame: Get the first value in each group of a DataFrame.
@@ -109,6 +117,9 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Min value in table in DataFrame: Find the minimum value in a DataFrame column.
 - Max value in group in DataFrame: Find the maximum value in each group of a DataFrame.
 - Max value in table in DataFrame: Find the maximum value in a DataFrame column.
+
+[🔼 Back to top](#01_pyspark_basic)
+
 
 ## Day 6
 - Left join in DataFrame: Perform a left join between two DataFrames in PySpark.
@@ -123,6 +134,9 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Month from date in DataFrame: Extract the month component from a date in PySpark DataFrames.
 - Day from date in DataFrame: Extract the day component from a date in PySpark DataFrames.
 - Sorting in DataFrame: Sort DataFrame by one or more columns in ascending or descending order.
+
+[🔼 Back to top](#01_pyspark_basic)
+
   
 ## Day 7
 - dbutils.help(): Learn how to use dbutils.help() to get help on available functions in Databricks.
@@ -163,6 +177,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Vacuum: Vacuum a Delta table to reclaim space by removing old versions of files.
 - Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. 
 
+[🔼 Back to top](#01_pyspark_basic)
+
 
 ## 02_Pyspark_Easy_To_Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank)
 
@@ -173,6 +189,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Select By ID Hacker Rank
 - Japanese Cities' Attributes Hacker Rank
 - Japanese Cities' Names Hacker Rank
+
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_2
 - Weather Observation Station 1 Hacker Rank
@@ -185,14 +203,20 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Weather Observation Station 11 Hacker Rank
 - Weather Observation Station 12 Hacker Rank
 
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
+
 ## Day_3
 - Higher Than 75 Marks Hacker Rank
 - Employee Names Hacker Rank
 - Employee Salaries Hacker Rank
 - Type of Triangle Hacker Rank
 
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
+
 ## Day_4
 - The PADS Hacker Rank ( Q1 & Q2 )
+
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_5
 - Revising Aggregations - The Count Function Hacker Rank
@@ -204,6 +228,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - The Blunder Hacker Rank
 - Top Earners Hacker Rank
 
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
+
 ## Day_6
 - Weather Observation Station 2 Hacker Rank
 - Weather Observation Station 13 Hacker Rank
@@ -214,22 +240,32 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Weather Observation Station 18 Hacker Rank
 - Weather Observation Station 19 Hacker Rank
 
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
+
 ## Day_7
 - Population Census Hacker Rank
 - African Cities Hacker Rank
 - Average Population of Each Continent
 
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
+
 ## Day_8
 - Binary Tree Nodes Hacker Rank
 - New Companies Hacker Rank
+
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_9
 - The Report Hacker Rank
 - Top Competitors Hacker Rank
 
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
+
 ## Day_10
 - Ollivander's Inventory Hacker Rank
 - Placements Hacker Rank
+
+[🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 
 ## Usage
