@@ -160,7 +160,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Optimize / Zorder: Z-order DataFrame for better query performance.
 - Vacuum: Vacuum a Delta table to reclaim space by removing old versions of files.
 - Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. 
-
+-->
 
 ## 02_Pyspark_Easy_To_Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank.)
 
@@ -171,7 +171,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
   * Select By ID Hacker Rank
   * Japanese Cities' Attributes Hacker Rank
   * Japanese Cities' Names Hacker Rank
-
+<--
 ## Day_2 (9 questions)
   * Weather Observation Station 1 Hacker Rank
   * Weather Observation Station 3 Hacker Rank
