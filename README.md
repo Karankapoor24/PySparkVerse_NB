@@ -136,7 +136,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 [🔼 Back to top](#01_pyspark_basic)
   
 ## Day 7
-[Redirect to Day 6 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%207%20(PySpark).ipynb)
+[Redirect to Day 7 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%207%20(PySpark).ipynb)
 - dbutils.help(): Learn how to use dbutils.help() to get help on available functions in Databricks.
 - dbutils.fs.help(): Explore dbutils.fs.help() to get help on file system operations in Databricks.
 - Read files from folder: Read files from a folder into a DataFrame in PySpark.
