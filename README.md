@@ -11,6 +11,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [Day 5](#day-5)
 - [Day 6](#day-6)
 - [Day 7](#day-7)
+- [Day 8](#day-8)
   
 ## [02_Pyspark_Easy_To_Medium](#02_pyspark_easy_to_medium-in-this-lesson-we-will-solve-questions-ranging-from-easy-to-medium-difficulty-level-we-have-taken-references-from-hackerrank)
 - [Day_1](#day_1)
@@ -173,7 +174,14 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Optimize the table: Optimize a Delta table for better performance.
 - Optimize / Zorder: Z-order DataFrame for better query performance.
 - Vacuum: Vacuum a Delta table to reclaim space by removing old versions of files.
-- Read multiple files with filename in a new column: Read multiple files into a DataFrame and add filename as a new column. 
+
+[🔼 Back to top](#01_pyspark_basic)
+
+## Day 8
+[Redirect to Day 8 notebook](https://github.com/am15398/PySparkVerse/blob/main/01_PySpark_Baisc/Day%208%20(PySpark).ipynb)
+- Read multiple files with filename in a new column.
+- Union DataFrames with different schemas.
+- merge schema true example in Pyspark
 
 [🔼 Back to top](#01_pyspark_basic)
 
