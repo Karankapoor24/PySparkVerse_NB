@@ -1,8 +1,9 @@
 # PySparkVerse
 
 Welcome to the PySparkVerse repository! This repository contains a collection of PySpark code snippets and examples categorized by day for easy reference and learning. Whether you're new to PySpark or looking to deepen your understanding, you'll find a variety of topics covered here.
-[linkedin AYUSH MAURYA](https://www.linkedin.com/in/ayush-maurya4/)
-[linkedin ABHISHEK KUMAR](https://www.linkedin.com/in/abhishek72/)
+
+- [linkedin AYUSH MAURYA](https://www.linkedin.com/in/ayush-maurya4/)
+- [linkedin ABHISHEK KUMAR](https://www.linkedin.com/in/abhishek72/)
 
  ## Table of Contents
  ## [01_PySpark_Basic](#01_pyspark_basic-in-this-lesson-we-will-learn-how-to-perform-transformations-in-pyspark)
