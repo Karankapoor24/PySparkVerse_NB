@@ -152,6 +152,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - Fill null value: Fill null values in a DataFrame with specified values.
 - Writing to parquet: Write DataFrame to Parquet file format.
 - Broadcast join: Perform a broadcast join in PySpark.
+- caching data : learn how to cache dataframe data 
 - Get number of partitions: Get the number of partitions in a DataFrame.
 - Increase the partition: Increase the number of partitions in a DataFrame.
 - Decrease the partition: Decrease the number of partitions in a DataFrame.
