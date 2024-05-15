@@ -192,6 +192,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 ## 02_Pyspark_Easy_To_Medium (In this lesson, we will solve questions ranging from easy to medium difficulty level. We have taken references from HackerRank)
 
 ## Day_1
+[Redirect to Day 1 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2001%20(PySpark).ipynb)
 - Revising the Select Query I Hacker Rank
 - Revising the Select Query II Hacker Rank
 - Select All Hacker Rank
@@ -202,6 +203,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_2
+[Redirect to Day 2 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2002%20(PySpark).ipynb)
 - Weather Observation Station 1 Hacker Rank
 - Weather Observation Station 3 Hacker Rank
 - Weather Observation Station 4 Hacker Rank
@@ -215,6 +217,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_3
+[Redirect to Day 3 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2003%20(Pyspark).ipynb)
 - Higher Than 75 Marks Hacker Rank
 - Employee Names Hacker Rank
 - Employee Salaries Hacker Rank
@@ -223,11 +226,13 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_4
+[Redirect to Day 4 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2004%20(PySpark).ipynb)
 - The PADS Hacker Rank ( Q1 & Q2 )
 
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_5
+[Redirect to Day 5 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2005%20(PySpark).ipynb)
 - Revising Aggregations - The Count Function Hacker Rank
 - Revising Aggregations - The Sum Function Hacker Rank
 - Revising Aggregations - Averages Hacker Rank
@@ -240,6 +245,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_6
+[Redirect to Day 6 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2006%20(PySpark).ipynb)
 - Weather Observation Station 2 Hacker Rank
 - Weather Observation Station 13 Hacker Rank
 - Weather Observation Station 14 Hacker Rank
@@ -252,6 +258,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_7
+[Redirect to Day 7 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2007%20(PySpark).ipynb)
 - Population Census Hacker Rank
 - African Cities Hacker Rank
 - Average Population of Each Continent
@@ -259,18 +266,21 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_8
+[Redirect to Day 8 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2008%20(PySpark).ipynb)
 - Binary Tree Nodes Hacker Rank
 - New Companies Hacker Rank
 
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_9
+[Redirect to Day 9 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2009%20(PySpark).ipynb)
 - The Report Hacker Rank
 - Top Competitors Hacker Rank
 
 [🔼 Back to top](#02_Pyspark_Easy_To_Medium)
 
 ## Day_10
+[Redirect to Day 10 notebook](https://github.com/am15398/PySparkVerse/blob/main/02_Pyspark_Easy_To_Medium/Day%2010%20(PySpark).ipynb)
 - Ollivander's Inventory Hacker Rank
 - Placements Hacker Rank
 
